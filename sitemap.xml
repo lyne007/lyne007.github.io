@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lyne007.github.io/2019/03/first/</loc>
+    <loc>https://lyne007.github.io/2019/03/hello-world/</loc>
     <lastmod>2019-03-11T21:04:47+08:00</lastmod>
   </url>
   
@@ -18,7 +18,20 @@
   </url>
   
   <url>
+    <loc>https://lyne007.github.io/tags/beatbox/</loc>
+    <lastmod>2019-03-11T21:04:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lyne007.github.io/categories/beatbox/</loc>
+    <lastmod>2019-03-11T21:04:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lyne007.github.io/categories/</loc>
+    <lastmod>2019-03-11T21:04:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,6 +49,7 @@
   
   <url>
     <loc>https://lyne007.github.io/tags/</loc>
+    <lastmod>2019-03-11T21:04:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
