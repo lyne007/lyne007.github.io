@@ -10,5 +10,23 @@
 	<atom:link href="https://lyne007.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Features</title>
+      <link>https://lyne007.github.io/categories/features/</link>
+      <pubDate>Thu, 14 Mar 2019 23:53:12 +0800</pubDate>
+      
+      <guid>https://lyne007.github.io/categories/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tranquilpeak</title>
+      <link>https://lyne007.github.io/categories/tranquilpeak/</link>
+      <pubDate>Thu, 14 Mar 2019 23:53:12 +0800</pubDate>
+      
+      <guid>https://lyne007.github.io/categories/tranquilpeak/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
