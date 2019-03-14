@@ -6,18 +6,34 @@
     <description>Recent content on Lyne PHPer/Beatboxer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2019 23:53:12 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 00:23:30 +0800</lastBuildDate>
     
 	<atom:link href="https://lyne007.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Js</title>
-      <link>https://lyne007.github.io/js/</link>
-      <pubDate>Thu, 14 Mar 2019 23:53:12 +0800</pubDate>
+      <title>嵌入代码段示例</title>
+      <link>https://lyne007.github.io/2019/03/hugo/</link>
+      <pubDate>Fri, 15 Mar 2019 00:23:30 +0800</pubDate>
       
-      <guid>https://lyne007.github.io/js/</guid>
-      <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.&lt;/p&gt;</description>
+      <guid>https://lyne007.github.io/2019/03/hugo/</guid>
+      <description>Tabbed code block  tabbed_codeblock js css html      1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+  function $initHighlight(block, flags) { try { if (block.className.search(/\bno\-highlight\b/) != -1) return processBlock(block.function, true, 0x0F) &amp;#43; &amp;#39; class=&amp;#34;&amp;#34;&amp;#39;; } catch (e) { /* handle exception */ var e4x = &amp;lt;div&amp;gt;Example &amp;lt;p&amp;gt;1234&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;; } for (var i = 0 / 2; i &amp;lt; classes.</description>
     </item>
     
   </channel>

@@ -6,35 +6,26 @@
     <description>Recent content in Tags on Lyne PHPer/Beatboxer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2019 23:53:12 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 00:23:30 +0800</lastBuildDate>
     
 	<atom:link href="https://lyne007.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Github Theme</title>
-      <link>https://lyne007.github.io/tags/github-theme/</link>
-      <pubDate>Thu, 14 Mar 2019 23:53:12 +0800</pubDate>
+      <title>Hugo</title>
+      <link>https://lyne007.github.io/tags/hugo/</link>
+      <pubDate>Fri, 15 Mar 2019 00:23:30 +0800</pubDate>
       
-      <guid>https://lyne007.github.io/tags/github-theme/</guid>
+      <guid>https://lyne007.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Highlight Code</title>
-      <link>https://lyne007.github.io/tags/highlight-code/</link>
-      <pubDate>Thu, 14 Mar 2019 23:53:12 +0800</pubDate>
+      <title>Tranquilpeak Theme</title>
+      <link>https://lyne007.github.io/tags/tranquilpeak-theme/</link>
+      <pubDate>Fri, 15 Mar 2019 00:23:30 +0800</pubDate>
       
-      <guid>https://lyne007.github.io/tags/highlight-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://lyne007.github.io/tags/test/</link>
-      <pubDate>Thu, 14 Mar 2019 23:53:12 +0800</pubDate>
-      
-      <guid>https://lyne007.github.io/tags/test/</guid>
+      <guid>https://lyne007.github.io/tags/tranquilpeak-theme/</guid>
       <description></description>
     </item>
     
