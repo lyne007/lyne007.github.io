@@ -36,5 +36,14 @@
   function $initHighlight(block, flags) { try { if (block.className.search(/\bno\-highlight\b/) != -1) return processBlock(block.function, true, 0x0F) &amp;#43; &amp;#39; class=&amp;#34;&amp;#34;&amp;#39;; } catch (e) { /* handle exception */ var e4x = &amp;lt;div&amp;gt;Example &amp;lt;p&amp;gt;1234&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;; } for (var i = 0 / 2; i &amp;lt; classes.</description>
     </item>
     
+    <item>
+      <title>基础三音之大鼓 B</title>
+      <link>https://lyne007.github.io/beatbox/b-box-1/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyne007.github.io/beatbox/b-box-1/</guid>
+      <description>&lt;p&gt;做法：把嘴巴闭紧，让嘴巴里面充满空气，但嘴巴不鼓起，让嘴里的空气向外挤嘴唇，然后在瞬间把嘴张开，然后就会有一种爆破音，是空气和嘴唇摩擦发出来的，记得挤的时候要短促而有力 .&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

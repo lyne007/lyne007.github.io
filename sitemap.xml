@@ -8,12 +8,36 @@
   </url>
   
   <url>
+    <loc>https://lyne007.github.io/beatbox/b-box-1/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lyne007.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://lyne007.github.io/tags/b-box/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lyne007.github.io/categories/beatbox/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lyne007.github.io/beatbox/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lyne007.github.io/categories/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -43,13 +67,19 @@
   
   <url>
     <loc>https://lyne007.github.io/tags/</loc>
-    <lastmod>2019-03-15T00:23:30+08:00</lastmod>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lyne007.github.io/tags/tranquilpeak-theme/</loc>
     <lastmod>2019-03-15T00:23:30+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lyne007.github.io/tags/%E5%A4%A7%E9%BC%93/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
